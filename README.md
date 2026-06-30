@@ -8,7 +8,7 @@ A modern React application for discovering movies, searching titles, and managin
 
 ### 🏠 Home Page
 
-![Home Page](./src/assets/image-1.png)
+![Home Page](./src/assets/image-3.png)
 
 <br/>
 
@@ -20,7 +20,8 @@ A modern React application for discovering movies, searching titles, and managin
 
 ### ❤️ Favorites
 
-![Favorites](./src/assets/image-3.png)
+![Favorites](./src/assets/image-1.png)
+
 ---
 
 Movie Discovery Platform is a frontend application built with React that demonstrates modern React development practices, including component-based architecture, routing, state management, API integration, and client-side persistence.
